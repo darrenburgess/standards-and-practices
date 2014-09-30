@@ -106,6 +106,7 @@ Format:
 | Daniel Zhang | [thedanzhang](https://github.com/thedanzhang) | Junior in University studying CS. Know Python, Java. Would love to gain experience in open source and app development (web or mobile). Looking to get in to entrepreneurship and tech startups. ||
 | Danielle Cerisier | [dpekkle](https://github.com/dpekkle) | Learning Python |
 | Dario | [asphxia](https://github.com/asphxia) | Learning Python and Ruby. Experienced with PHP and web related technologies. |
+: | Darren Burgess | [darrenburgess](https://github.com/darrenburgess) | Learning all aspects of the web stack, focusing on php, javascript, jQuery, html, css |
 | Darren Tsung | [EvilFunnyBunny](https://github.com/EvilFunnyBunny) ||
 | Demetri Evans | [iKyriaki](https://github.com/iKyriaki) | Majoring in game development, finishing up my Freshman year and my first year of Python. Currently trying to learn C++ at the same time to prepare myself for the next few years. |
 | Dharak Kharod | [dharakk](https://github.com/dharakk) | I am a computer Science Student. Know C/C++ and JAVA. Looking forward to learning python. A real Beginner. Hoping to progress. |
